@@ -1,0 +1,6 @@
+framework module Pods_KIFvsXCTestSample1_UITestsUsingKIF {
+  umbrella header "Pods-KIFvsXCTestSample1-UITestsUsingKIF-umbrella.h"
+
+  export *
+  module * { export * }
+}
