@@ -7,6 +7,7 @@ This is a small personal project which is created only for enhancing my skills. 
 
 KIF is an iOS integration test framework. It allows for easy automation of iOS apps by leveraging the accessibility attributes. You can find complete info in below link: 
 https://github.com/kif-framework/KIF
+
 Steps followed:
 1) Install Pod file
 2) Create new Unit testing target for KIF
@@ -35,6 +36,6 @@ extension KIFTestActor {
 ```
 5) Start writing test cases
 
-XCTest:
+## XCTest:
 XCTest provides the framework for UI testing capabilities, integrated with Xcode. Creating and using UI testing expands upon what you know about using XCTest and creating unit tests.
 I follwed this tutorial: https://www.raywenderlich.com/3619-207-xcode-ui-testing
